@@ -128,9 +128,8 @@ Get information about a file, including size and permissions:
 ```bash
 ./internsctl file getinfo --size --permissions /path/to/file.txt
 ```
-
-> # Section A
-The working of 
+----
+> # Section A 
 ```bash
 man intersectl
 ```
@@ -139,7 +138,6 @@ man intersectl
 
 ![image](https://github.com/shivanshkumar999/XenonStacks_Task1_Round2/assets/67266253/f65ae513-182e-41b4-a313-661e62b37dc5)
 
-The working of 
 ```bash
 internsctl --help
 ```
@@ -147,9 +145,9 @@ internsctl --help
 internsctl --version
 ```
 ![image](https://github.com/shivanshkumar999/XenonStacks_Task1_Round2/assets/67266253/dd8b1393-68f3-405f-8019-4d61db71d6c2)
+----
 
-
-# > Section B 
+> # Section B 
 
 ## Part 1 - Easy
 
