@@ -5,7 +5,7 @@ With Reference to - University Recruitment Process
 
 # internsctl - Custom Linux Command
 
-## Introduction+
+## Introduction
 
 `internsctl` is a custom Linux command designed for internship operations. It provides a set of functionalities related to CPU information, memory information, user management, and file operations.
 
