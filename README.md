@@ -21,7 +21,8 @@ With Reference to - University Recruitment Process
 Clone the repository to your local machine:
 
 ```bash
-[git clone https://github.com/your-username/internsctl.git](https://github.com/shivanshkumar999/XenonStacks_Task1_Round2.git)
+git clone https://github.com/your-username/internsctl.git
+https://github.com/shivanshkumar999/XenonStacks_Task1_Round2.git
 ```
 
 Navigate to the project directory:
