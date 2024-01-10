@@ -54,7 +54,7 @@ Write your information into the manual file
 .TH INTERNSCTL "10 January 2024" "v0.1.0" "internsctl manual"
 
 .SH NAME
-internsctl \- Custom Linux command for internship operations.
+internsctl \- Custom Linux command for College Placement.
 
 .SH SYNOPSIS
 .B internsctl
@@ -64,7 +64,7 @@ internsctl \- Custom Linux command for internship operations.
 This manual page documents the \fBinternsctl\fR command.
 
 .PP
-\fBinternsctl\fR is a custom Linux command for managing internship operations.
+\fBinternsctl\fR is a custom Linux command for managing basic operations.
 
 .SH OPTIONS
 .TP
