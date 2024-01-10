@@ -146,7 +146,6 @@ internsctl --version
 ```
 ![image](https://github.com/shivanshkumar999/XenonStacks_Task1_Round2/assets/67266253/dd8b1393-68f3-405f-8019-4d61db71d6c2)
 ----
-
 > # Section B 
 
 ## Part 1 - Easy
@@ -166,7 +165,6 @@ internsctl memory getinfo
 ```
 
 ![image](https://github.com/shivanshkumar999/XenonStacks_Task1_Round2/assets/67266253/dd7f8f75-e5f8-476b-aad7-c90f71762621)
-
 
 ## Part 2 - Intermediate
 
@@ -215,3 +213,4 @@ internsctl file getinfo --last-modified  / internsctl file getinfo -m
 
 ![image](https://github.com/shivanshkumar999/XenonStacks_Task1_Round2/assets/67266253/c38c78fc-f118-4631-b3d5-5e92d1100235)
 
+----
