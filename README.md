@@ -47,7 +47,40 @@ nano internsctl.1
 ```
 
 Step 2:
+```bash
 Write your information into the manual file
+
+.TH INTERNSCTL "10 January 2024" "v0.1.0" "internsctl manual"
+
+.SH NAME
+internsctl \- Custom Linux command for internship operations.
+
+.SH SYNOPSIS
+.B internsctl
+[\fIOPTION\fR]
+
+.SH DESCRIPTION
+This manual page documents the \fBinternsctl\fR command.
+
+.PP
+\fBinternsctl\fR is a custom Linux command for managing internship operations.
+
+.SH OPTIONS
+.TP
+.BR \-\-help
+Display help message.
+
+.TP
+.BR \-\-version
+Display the command version.
+
+.SH AUTHOR
+Shivansh Kumar - Shivanshkumar752@gmail.com
+
+.SH COPYRIGHT
+Shivansh Kumar AND XenonStacks
+```
+
 
 Step 3:
 ```bash
