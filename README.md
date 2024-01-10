@@ -129,7 +129,7 @@ Get information about a file, including size and permissions:
 ./internsctl file getinfo --size --permissions /path/to/file.txt
 ```
 
-# > Section A
+> # Section A
 The working of 
 ```bash
 man intersectl
