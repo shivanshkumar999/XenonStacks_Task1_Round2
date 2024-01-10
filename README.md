@@ -5,7 +5,7 @@ With Reference to - University Recruitment Process
 
 # internsctl - Custom Linux Command
 
-## Introduction
+## Introduction+
 
 `internsctl` is a custom Linux command designed for internship operations. It provides a set of functionalities related to CPU information, memory information, user management, and file operations.
 
@@ -38,6 +38,32 @@ Usage
 ```bash
 ./internsctl [OPTIONS] COMMAND [ARGS]
 ```
+
+## Creation of MAN file
+
+Step 1:
+```bash
+nano internsctl.1
+```
+
+Step 2:
+Write your information into the manual file
+
+Step 3:
+```bash
+sudo mkdir -p /usr/share/man/man1
+sudo mv internsctl.1 /usr/share/man/man1/
+sudo mandb
+```
+
+Step 4:
+```bash
+man internsctl
+```
+
+![image](https://github.com/shivanshkumar999/XenonStacks_Task1_Round2/assets/67266253/76eae209-2f11-42fa-9b86-c554852f3049)
+
+![image](https://github.com/shivanshkumar999/XenonStacks_Task1_Round2/assets/67266253/f65ae513-182e-41b4-a313-661e62b37dc5)
 
 ## OPTIONS:
 
